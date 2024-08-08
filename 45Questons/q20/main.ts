@@ -1,0 +1,1 @@
+let rivers:string[]=["Ravi","Jhelum","Chenub","setluj"];
